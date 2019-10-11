@@ -1,0 +1,10 @@
+#name-card-text {
+  float: left;
+  width: 60%
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
